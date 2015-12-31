@@ -1,0 +1,28 @@
+name: TalentSyncllc
+favicon: null
+layout_spectrum: 0.2519522167276591
+typography_spectrum: 0.7225908522959799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7737876602914184
+  lightness: 0.3590376484207809
+  saturation: 0.6621856559067965
+  rhythmicContrast: 0.9400163737591356
+purpose: []
